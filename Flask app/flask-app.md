@@ -131,3 +131,6 @@
     >'--name' to give name to the container
     
     copy the public IP address of EC2 instance and paste in new tab to see the application running
+
+   Output:
+   ![Screenshot (978)](https://github.com/KavyaBhalodia/Docker/assets/87963890/9d0018e2-047d-4007-88ee-9e557dd8d351)
