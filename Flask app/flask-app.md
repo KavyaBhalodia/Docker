@@ -33,7 +33,7 @@
 		````mkdir flask-app````
 		
 7. Make following files in flask-app
-		app.py
+    app.py
 
     ````
 
