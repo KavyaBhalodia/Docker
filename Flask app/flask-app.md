@@ -32,7 +32,7 @@
 6. Create a directory flask app and create following files in it
 		````mkdir flask-app````
 		
-7. Make following files in flask-app
+7. Make following files in flask-app<br>
     app.py
 
     ````
