@@ -112,7 +112,7 @@
       EXPOSE 5000
 
     # Command for running the application
-    CMD ["python", "/usr/src/app/app.py"]
+      CMD ["python", "/usr/src/app/app.py"]
     ````
 7. Build docker image
     ````
